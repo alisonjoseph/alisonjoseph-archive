@@ -1,6 +1,15 @@
- Setup
+Setup
 ---
  
 ```
-yarn
+npm install
+```
+ 
+ 
+ 
+Compile
+---
+ 
+```
+npm run compile
 ```
