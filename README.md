@@ -1,3 +1,15 @@
+
+Usage
+---
+ 
+Start the development server with this command:
+ 
+```
+npm run dev
+```
+ 
+ 
+ 
 Setup
 ---
  
